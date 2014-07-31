@@ -1,0 +1,17 @@
+truncate ld_dataset_crawler.crawl_operations_log;
+truncate ld_dataset_crawler.dataset_availability;
+truncate ld_dataset_crawler.dataset_schema_log;
+truncate ld_dataset_crawler.dataset_schemas;
+truncate ld_dataset_crawler.resource_instance_log;
+truncate ld_dataset_crawler.resource_instance_type;
+truncate ld_dataset_crawler.resource_instance_type_log;
+truncate ld_dataset_crawler.resource_types;
+truncate ld_dataset_crawler.resource_value_log;
+truncate ld_dataset_crawler.resource_values;
+truncate ld_dataset_crawler.resource_instances;
+truncate ld_dataset_crawler.schema_instances;
+truncate ld_dataset_crawler.schema_log;
+truncate ld_dataset_crawler.schemas;
+truncate ld_dataset_crawler.dataset;
+truncate ld_dataset_crawler.crawl_log;
+truncate ld_dataset_crawler.dataset_crawl_log;

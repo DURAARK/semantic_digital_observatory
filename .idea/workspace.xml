@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dataset_crawler:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="5478953f-d1e9-4b6f-8592-209f890564fc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java" afterPath="$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java" />
+    </list>
+    <ignored path="dataset_crawler.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dataset_crawler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="IncrementalDatasetCrawler.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.07692308" vertical-offset="8924" max-vertical-offset="11305">
+              <caret line="533" column="17" selection-start-line="533" selection-start-column="17" selection-end-line="533" selection-end-column="17" />
+              <folding>
+                <element signature="e#25763#25772#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Properties.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/crawl_utils/Properties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1343">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Schema.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/Schema.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="748">
+              <caret line="24" column="85" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Metadata.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/metadata_crawler/Metadata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="3978">
+              <caret line="40" column="96" selection-start-line="40" selection-start-column="96" selection-end-line="40" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/Resource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1190">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataCrawler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="9061">
+              <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dataset.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/Dataset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1258">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="697">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrawlOperations.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="27115" max-vertical-offset="27982">
+              <caret line="1595" column="35" selection-start-line="1595" selection-start-column="35" selection-end-line="1595" selection-end-column="35" />
+              <folding>
+                <marker date="1402405484368" expanded="true" signature="1501:1615" placeholder="UPDATE datas..." />
+                <marker date="1402405484368" expanded="true" signature="1763:1863" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="3596:3658" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="4949:5036" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="6733:6812" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="8568:8648" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="10102:10160" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="12098:12182" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="14515:14578" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="16164:16244" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="17802:17880" placeholder="UPDATE datas..." />
+                <marker date="1402405484368" expanded="true" signature="19192:19283" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="20540:20628" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="22216:22322" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="24182:24249" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="26319:26388" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="27878:27945" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="29705:29772" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="31325:31392" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="33169:33262" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="35237:35330" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="37059:37137" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="38908:38986" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="40473:40551" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="42215:42288" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="44338:44411" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="46311:46392" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="48444:48525" placeholder="INSERT INTO ..." />
+                <marker date="1402405484368" expanded="true" signature="51608:51953" placeholder="SELECT d.dat..dataset_schemas..." />
+                <marker date="1402405484368" expanded="true" signature="53853:54629" placeholder="SELECT sc.sc..schemas..." />
+                <marker date="1402405484368" expanded="true" signature="57805:58168" placeholder="SELECT ri.re..resource_instances..." />
+                <marker date="1402405484368" expanded="true" signature="60108:60629" placeholder="SELECT ri.re..resource_instances..." />
+                <marker date="1402405484368" expanded="true" signature="63607:63707" placeholder="SELECT schem..schemas..." />
+                <marker date="1402405484368" expanded="true" signature="64907:65333" placeholder="SELECT rt.ty..resource_types..." />
+                <marker date="1402405484368" expanded="true" signature="67896:68112" placeholder="SELECT rt.ty..resource_types..." />
+                <marker date="1402405484368" expanded="true" signature="69624:69729" placeholder="SELECT datas..dataset..." />
+                <marker date="1402405484368" expanded="true" signature="71846:71901" placeholder="SELECT sc.sc..schemas..." />
+                <marker date="1402405484368" expanded="true" signature="72983:73439" placeholder="SELECT ds.sc..dataset_schemas..." />
+                <marker date="1402405484368" expanded="true" signature="76002:76168" placeholder="SELECT rt.ty..resource_types..." />
+                <marker date="1402405484368" expanded="true" signature="77828:78135" placeholder="SELECT rt.ty..resource_types..." />
+                <marker date="1402405484368" expanded="true" signature="79943:80854" placeholder="SELECT ri.re..resource_instances..." />
+                <marker date="1402405484368" expanded="true" signature="84547:85159" placeholder="SELECT ri.re..resource_instances..." />
+                <marker date="1402405484368" expanded="true" signature="87849:87910" placeholder="SELECT type_..resource_types..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="629">
+              <caret line="19" column="96" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/utils/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/entities/Schema.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataset_snapshots/DatasetRepresentation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/metadata_crawler/Metadata.java" />
+        <option value="$PROJECT_DIR$/src/main/java/database_operations/CrawlerLogs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/database_operations/CrawlLoadData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawl_utils/Properties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entities/Dataset.java" />
+        <option value="$PROJECT_DIR$/src/main/java/database_operations/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entities/Resource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metadata_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database_operations" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataset_crawler" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crawl_utils" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="writeResourceInstanceType&#9;PSI&#9;JAVA://database_operations.CrawlOperations#writeResourceInstanceType&#10;resource_type_id&#9;PSI&#9;JAVA://entities.ResourceType#resource_type_id&#10;loadDatasetResources&#9;PSI&#9;JAVA://database_operations.CrawlOperations#loadDatasetResourcesComplete&#10;loadResourceURI&#9;PSI&#9;JAVA://data_crawler.DataCrawler#loadResourceURI&#10;writeDatasetEndpointAvailability&#9;PSI&#9;JAVA://database_operations.CrawlOperations#writeDatasetEndpointAvailability&#10;writeResourceInstanceValues&#9;PSI&#9;JAVA://database_operations.CrawlOperations#writeResourceInstanceValues&#10;writeResourceInstances&#9;PSI&#9;JAVA://database_operations.CrawlOperations#writeResourceInstances&#10;loadBulkResourcesDescribe&#9;PSI&#9;JAVA://data_crawler.DataCrawler#loadBulkResourcesDescribe&#10;isDatasetEndpointAvailable&#9;PSI&#9;JAVA://data_crawler.DataCrawler#isDatasetEndpointAvailable&#10;isEnd&#9;PSI&#9;JAVA://data_crawler.DataCrawler#isDatasetEndpointAvailable&#10;writeDatasetCrawlEntry&#9;PSI&#9;JAVA://database_operations.CrawlOperations#writeDatasetCrawlEntry&#10;loadExistingResourceTypeURI&#9;PSI&#9;JAVA://database_operations.CrawlOperations#loadExistingResourceTypeURI&#10;loadDatasetSchemaURI&#9;PSI&#9;JAVA://database_operations.CrawlOperations#loadDatasetSchemaURI&#10;writeDatasetSchemas&#9;PSI&#9;JAVA://database_operations.CrawlOperations#writeDatasetSchemas&#10;loadSchema&#9;PSI&#9;JAVA://database_operations.CrawlOperations#loadSchema&#10;packageSearchSingle&#9;PSI&#9;JAVA://metadata_crawler.Metadata#packageSearchSingle&#10;&#9;FILE&#9;file://C:/Users/besnik/Documents/intelliJ_workspace/dataset_crawler/src/main/java/database_operations/CrawlOperations.java" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.de.unihannover.l3s.dataset_crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.de.unihannover.l3s.dataset_crawler.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dataset_crawler" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.App" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\besnik\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler" />
+          <option name="myCopyRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler\.idea" />
+          <option name="myCopyRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler\utils" />
+          <option name="myCopyRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler\utils" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler" />
+          <option name="myCopyRoot" value="C:\Users\besnik\Documents\intelliJ_workspace\dataset_crawler" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5478953f-d1e9-4b6f-8592-209f890564fc" name="Default" comment="" />
+      <created>1396267644960</created>
+      <updated>1396267644960</updated>
+      <workItem from="1396267646340" duration="190000" />
+      <workItem from="1397492704879" duration="40258000" />
+      <workItem from="1397639524063" duration="1455000" />
+      <workItem from="1397650336630" duration="49000" />
+      <workItem from="1398701568904" duration="10000" />
+      <workItem from="1398842646559" duration="55000" />
+      <workItem from="1400742811866" duration="911000" />
+      <workItem from="1401644770896" duration="15698000" />
+      <workItem from="1401709411167" duration="5740000" />
+      <workItem from="1401727695733" duration="10257000" />
+      <workItem from="1401775794067" duration="7857000" />
+      <workItem from="1401784542897" duration="11509000" />
+      <workItem from="1401953912916" duration="14112000" />
+      <workItem from="1402054884650" duration="453000" />
+      <workItem from="1402055400359" duration="102000" />
+      <workItem from="1402060521721" duration="26230000" />
+      <workItem from="1402394313583" duration="9646000" />
+      <workItem from="1402417936767" duration="2710000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1397641805171</created>
+      <updated>1397641805171</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1401689658968</created>
+      <updated>1401689658968</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1401693651094</created>
+      <updated>1401693651094</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1401697088777</created>
+      <updated>1401697088778</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1401699327585</created>
+      <updated>1401699327585</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1401699597407</created>
+      <updated>1401699597407</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1401703483908</created>
+      <updated>1401703483908</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1401732947893</created>
+      <updated>1401732947893</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1401737929765</created>
+      <updated>1401737929765</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1401782883142</created>
+      <updated>1401782883142</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1401784640698</created>
+      <updated>1401784640698</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1402405943891</created>
+      <updated>1402405943891</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147242000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3303671" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29810902" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28489584" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16577825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3926585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="51" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="799">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3179" max-vertical-offset="8755">
+          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+          <folding>
+            <element signature="e#25763#25772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1020">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8262" max-vertical-offset="8925">
+          <caret line="486" column="42" selection-start-line="486" selection-start-column="42" selection-end-line="486" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13005" max-vertical-offset="30957">
+          <caret line="765" column="23" selection-start-line="765" selection-start-column="23" selection-end-line="765" selection-end-column="23" />
+          <folding>
+            <marker date="1402405484368" expanded="true" signature="1501:1615" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="1763:1863" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="3596:3658" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="4949:5036" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="6733:6812" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="8568:8648" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="10102:10160" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="12098:12182" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="14515:14578" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="16164:16244" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="17802:17880" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="19192:19283" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="20540:20628" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="22216:22322" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="24182:24249" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="26319:26388" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="27878:27945" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="29705:29772" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="31325:31392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="33169:33262" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="35237:35330" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="37059:37137" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="38908:38986" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="40473:40551" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="42215:42288" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="44338:44411" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="46311:46392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="48444:48525" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="51608:51953" placeholder="SELECT d.dat..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="53853:54629" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="57805:58168" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="60108:60629" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="63607:63707" placeholder="SELECT schem..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="64907:65333" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="67896:68112" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="69624:69729" placeholder="SELECT datas..dataset..." />
+            <marker date="1402405484368" expanded="true" signature="71846:71901" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="72983:73439" placeholder="SELECT ds.sc..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="76002:76168" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="77828:78135" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="79943:80854" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="84547:85159" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="87849:87910" placeholder="SELECT type_..resource_types..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="544">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/DatasetRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1071">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlLoadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4573" max-vertical-offset="5032">
+          <caret line="269" column="54" selection-start-line="269" selection-start-column="54" selection-end-line="269" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="799">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3179" max-vertical-offset="8755">
+          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+          <folding>
+            <element signature="e#25763#25772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1020">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8262" max-vertical-offset="8925">
+          <caret line="486" column="42" selection-start-line="486" selection-start-column="42" selection-end-line="486" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13005" max-vertical-offset="30957">
+          <caret line="765" column="23" selection-start-line="765" selection-start-column="23" selection-end-line="765" selection-end-column="23" />
+          <folding>
+            <marker date="1402405484368" expanded="true" signature="1501:1615" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="1763:1863" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="3596:3658" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="4949:5036" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="6733:6812" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="8568:8648" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="10102:10160" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="12098:12182" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="14515:14578" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="16164:16244" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="17802:17880" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="19192:19283" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="20540:20628" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="22216:22322" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="24182:24249" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="26319:26388" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="27878:27945" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="29705:29772" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="31325:31392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="33169:33262" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="35237:35330" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="37059:37137" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="38908:38986" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="40473:40551" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="42215:42288" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="44338:44411" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="46311:46392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="48444:48525" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="51608:51953" placeholder="SELECT d.dat..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="53853:54629" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="57805:58168" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="60108:60629" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="63607:63707" placeholder="SELECT schem..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="64907:65333" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="67896:68112" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="69624:69729" placeholder="SELECT datas..dataset..." />
+            <marker date="1402405484368" expanded="true" signature="71846:71901" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="72983:73439" placeholder="SELECT ds.sc..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="76002:76168" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="77828:78135" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="79943:80854" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="84547:85159" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="87849:87910" placeholder="SELECT type_..resource_types..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="544">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/DatasetRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1071">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlLoadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4573" max-vertical-offset="5032">
+          <caret line="269" column="54" selection-start-line="269" selection-start-column="54" selection-end-line="269" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="799">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3179" max-vertical-offset="8755">
+          <caret line="204" column="12" selection-start-line="204" selection-start-column="12" selection-end-line="204" selection-end-column="12" />
+          <folding>
+            <element signature="e#25763#25772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1020">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8262" max-vertical-offset="8925">
+          <caret line="486" column="42" selection-start-line="486" selection-start-column="42" selection-end-line="486" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13005" max-vertical-offset="30957">
+          <caret line="765" column="23" selection-start-line="765" selection-start-column="23" selection-end-line="765" selection-end-column="23" />
+          <folding>
+            <marker date="1402405484368" expanded="true" signature="1501:1615" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="1763:1863" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="3596:3658" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="4949:5036" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="6733:6812" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="8568:8648" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="10102:10160" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="12098:12182" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="14515:14578" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="16164:16244" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="17802:17880" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="19192:19283" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="20540:20628" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="22216:22322" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="24182:24249" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="26319:26388" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="27878:27945" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="29705:29772" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="31325:31392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="33169:33262" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="35237:35330" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="37059:37137" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="38908:38986" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="40473:40551" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="42215:42288" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="44338:44411" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="46311:46392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="48444:48525" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="51608:51953" placeholder="SELECT d.dat..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="53853:54629" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="57805:58168" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="60108:60629" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="63607:63707" placeholder="SELECT schem..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="64907:65333" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="67896:68112" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="69624:69729" placeholder="SELECT datas..dataset..." />
+            <marker date="1402405484368" expanded="true" signature="71846:71901" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="72983:73439" placeholder="SELECT ds.sc..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="76002:76168" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="77828:78135" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="79943:80854" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="84547:85159" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="87849:87910" placeholder="SELECT type_..resource_types..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="544">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/DatasetRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1071">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlLoadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4573" max-vertical-offset="5032">
+          <caret line="269" column="54" selection-start-line="269" selection-start-column="54" selection-end-line="269" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="799">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3179" max-vertical-offset="8755">
+          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+          <folding>
+            <element signature="e#25763#25772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1020">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8262" max-vertical-offset="8925">
+          <caret line="486" column="42" selection-start-line="486" selection-start-column="42" selection-end-line="486" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13005" max-vertical-offset="30957">
+          <caret line="765" column="23" selection-start-line="765" selection-start-column="23" selection-end-line="765" selection-end-column="23" />
+          <folding>
+            <marker date="1402405484368" expanded="true" signature="1501:1615" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="1763:1863" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="3596:3658" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="4949:5036" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="6733:6812" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="8568:8648" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="10102:10160" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="12098:12182" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="14515:14578" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="16164:16244" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="17802:17880" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="19192:19283" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="20540:20628" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="22216:22322" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="24182:24249" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="26319:26388" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="27878:27945" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="29705:29772" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="31325:31392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="33169:33262" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="35237:35330" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="37059:37137" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="38908:38986" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="40473:40551" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="42215:42288" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="44338:44411" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="46311:46392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="48444:48525" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="51608:51953" placeholder="SELECT d.dat..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="53853:54629" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="57805:58168" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="60108:60629" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="63607:63707" placeholder="SELECT schem..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="64907:65333" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="67896:68112" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="69624:69729" placeholder="SELECT datas..dataset..." />
+            <marker date="1402405484368" expanded="true" signature="71846:71901" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="72983:73439" placeholder="SELECT ds.sc..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="76002:76168" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="77828:78135" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="79943:80854" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="84547:85159" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="87849:87910" placeholder="SELECT type_..resource_types..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="544">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/DatasetRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1071">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlLoadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4573" max-vertical-offset="5032">
+          <caret line="269" column="54" selection-start-line="269" selection-start-column="54" selection-end-line="269" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="799">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9609644" vertical-offset="183" max-vertical-offset="1139">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/src/main/java/utils/DBUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3927739" vertical-offset="1924" max-vertical-offset="22712">
+          <caret line="154" column="40" selection-start-line="154" selection-start-column="27" selection-end-line="154" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4678899" vertical-offset="0" max-vertical-offset="872">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/DatasetRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4684271" vertical-offset="0" max-vertical-offset="952">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlLoadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1974" max-vertical-offset="4131">
+          <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/DatabaseConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="16" column="111" selection-start-line="16" selection-start-column="111" selection-end-line="16" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="347" max-vertical-offset="1241">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlerLogs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="816">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/ResourceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="19" column="96" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/metadata_crawler/Metadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3706">
+          <caret line="40" column="96" selection-start-line="40" selection-start-column="96" selection-end-line="40" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Schema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="24" column="85" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_crawler/DataCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="632" max-vertical-offset="8806">
+          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entities/Dataset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1173">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/de/unihannover/l3s/dataset_crawler/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/database_operations/CrawlOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26455" max-vertical-offset="27795">
+          <caret line="1595" column="35" selection-start-line="1595" selection-start-column="35" selection-end-line="1595" selection-end-column="35" />
+          <folding>
+            <marker date="1402405484368" expanded="true" signature="1501:1615" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="1763:1863" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="3596:3658" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="4949:5036" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="6733:6812" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="8568:8648" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="10102:10160" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="12098:12182" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="14515:14578" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="16164:16244" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="17802:17880" placeholder="UPDATE datas..." />
+            <marker date="1402405484368" expanded="true" signature="19192:19283" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="20540:20628" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="22216:22322" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="24182:24249" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="26319:26388" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="27878:27945" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="29705:29772" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="31325:31392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="33169:33262" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="35237:35330" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="37059:37137" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="38908:38986" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="40473:40551" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="42215:42288" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="44338:44411" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="46311:46392" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="48444:48525" placeholder="INSERT INTO ..." />
+            <marker date="1402405484368" expanded="true" signature="51608:51953" placeholder="SELECT d.dat..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="53853:54629" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="57805:58168" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="60108:60629" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="63607:63707" placeholder="SELECT schem..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="64907:65333" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="67896:68112" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="69624:69729" placeholder="SELECT datas..dataset..." />
+            <marker date="1402405484368" expanded="true" signature="71846:71901" placeholder="SELECT sc.sc..schemas..." />
+            <marker date="1402405484368" expanded="true" signature="72983:73439" placeholder="SELECT ds.sc..dataset_schemas..." />
+            <marker date="1402405484368" expanded="true" signature="76002:76168" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="77828:78135" placeholder="SELECT rt.ty..resource_types..." />
+            <marker date="1402405484368" expanded="true" signature="79943:80854" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="84547:85159" placeholder="SELECT ri.re..resource_instances..." />
+            <marker date="1402405484368" expanded="true" signature="87849:87910" placeholder="SELECT type_..resource_types..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawl_utils/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataset_snapshots/IncrementalDatasetCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.07692308" vertical-offset="8924" max-vertical-offset="11305">
+          <caret line="533" column="17" selection-start-line="533" selection-start-column="17" selection-end-line="533" selection-end-column="17" />
+          <folding>
+            <element signature="e#25763#25772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>dataset_crawler:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-compiler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dataset_crawler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.sun.jersey:jersey-client:1.7-ea07</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
